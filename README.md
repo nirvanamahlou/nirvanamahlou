@@ -1,6 +1,6 @@
 # Nirvana Mahlou
 
-I'm an AI engineer at Niyayesh Seir Sahar in Tehran and a mathematics graduate of Amirkabir University of Technology. My research looks at how graph neural networks make predictions. In my engineering work, I build Persian-language software for travelers and the agency teams who manage their bookings.
+I'm an AI engineer at Niyayesh Seir Sahar in Tehran and a mathematics graduate of Amirkabir University of Technology. My research looks at how graph neural networks make predictions. 
 
 ## Selected projects
 
